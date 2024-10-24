@@ -4,8 +4,6 @@ import Image from "next/image";
 import RightArrow from "@/app/images/icon-arrow.svg";
 import Quotes from "@/app/images/icon-quotes.svg";
 import KyleBurtenImage from "@/app/images/avatar-testimonial.jpg";
-import background from "@/app/images/bg-curve-desktop.svg";
-import backgroundPhone from "@/app/images/bg-curve-mobile.svg";
 import Link from "next/link";
 
 function Herotwo() {
